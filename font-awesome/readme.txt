@@ -1,0 +1,1 @@
+This was downloaded from: https://fontawesome.com/v4.7/get-started/
